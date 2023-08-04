@@ -8,11 +8,11 @@ Olá! Seja bem-vindo ao meu perfil no GitHub. Meu nome é Cleber Guimarães, e s
 
 - **Infraestrutura de TI e Sistemas:** Tenho experiência em trabalhar com infraestrutura de TI e sistemas, o que me permitiu compreender as particularidades e necessidades específicas de cada ambiente. Ao longo dessa experiência, adquiri habilidades sólidas em administração de servidores e redes.
 
-- **Business Intelligence (BI):** Atualmente, meu foco principal é a área de BI, onde venho trabalhando no desenvolvimento e visualização de dados. Isso inclui a criação de painéis interativos, relatórios e análises que proporcionam insights valiosos para a tomada de decisões estratégicas. Utilizo ferramentas como DBT e Pentaho para ETL (Extract, Transform, Load).
+- **Business Intelligence (BI):** Atualmente, meu foco principal é a área de BI, onde venho trabalhando no desenvolvimento e visualização de dados. Isso inclui a criação de painéis interativos, relatórios e análises que proporcionam insights para a tomada de decisões estratégicas. Utilizo ferramentas como DBT e Pentaho para ETL (Extract, Transform, Load).
 
 ## Projetos
 
-Neste repositório, você encontrará alguns dos meus projetos desenvolvidos em Python e Airflow, além da utilização da linguagem SQL. Esses projetos refletem meu interesse em explorar e aplicar a tecnologia da informação para resolver problemas e criar soluções inovadoras.
+Neste repositório, você encontrará alguns dos meus projetos desenvolvidos em Python e Airflow, além da utilização da linguagem SQL. Esses projetos refletem meu interesse em explorar e aplicar a tecnologia da informação.
 
 ## Contato
 
