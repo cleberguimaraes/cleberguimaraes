@@ -3,7 +3,7 @@
 <!--
 **cleberguimaraes/cleberguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Carreira sólida em Tecnologia da Informação, Pós-Graduação em Análise de Dados com foco em Business Intelligence. Atualmente, estou focado na área de Business Intelligence (BI), onde desenvolvo aplicações para análise de dados, proporcionando insights para a tomada de decisões estratégicas. Com habilidades em ferramentas de BI e linguagens de consulta e ferramentas de ETL.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
