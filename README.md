@@ -12,7 +12,7 @@ Olá! Seja bem-vindo ao meu perfil no GitHub. Meu nome é Cleber Guimarães, e s
 
 ## Projetos
 
-Neste repositório, você encontrará alguns dos meus projetos desenvolvidos em Python e Airflow, além da utilização da linguagem SQL. Esses projetos refletem meu interesse em explorar e aplicar a tecnologia da informação.
+Neste repositório, você encontrará alguns dos meus projetos desenvolvidos em Python e Airflow, além da utilização da linguagem SQL. Esses projetos refletem meu interesse em explorar e aplicar meus conhecimentos.
 
 ## Contato
 
