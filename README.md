@@ -6,9 +6,18 @@ Olá! Seja bem-vindo ao meu perfil no GitHub. Meu nome é Cleber Guimarães, e s
 
 ## Experiência Profissional
 
-- **Infraestrutura de TI e Sistemas:** Tenho experiência em trabalhar com infraestrutura de TI e sistemas, o que me permitiu compreender as particularidades e necessidades específicas de cada ambiente. Ao longo dessa experiência, adquiri habilidades sólidas em administração de servidores e redes.
+- Carreira desenvolvida na área de Tecnologia da Informação, com expertise em redes, servidores e suporte a sistemas de informação. 
+- Tenho experiência no levantamento de requisitos, implantação de sistemas e implementação de melhorias nos processos, 
+buscando constantemente aprimorar a eficiência operacional. 
+- Na área de Business Intelligence (BI), com desenvolvimento de dashboards para análise de dados, proporcionando insights 
+para a tomada de decisões estratégicas e transformações ETL/ELT com DBT e Pentaho. 
+- Pós-graduado em análise de dados com Business Intelligence, graduado em gestão de tecnologias da informação e nível técnico em informática. 
+- Já supervisionei e executei projetos, incluindo a migração de database server e file server de um sistema de gestão hospitalar 
+para um novo ambiente, coordenando as empresas envolvidas. 
+- Habilidades comportamentais: adaptabilidade, comunicação efetiva, gestão de tempo, trabalho em equipe, foco nos objetivos 
+e busca constante de aprendizado de novas tecnologias para o desenvolvimento do processo organizacional. 
+- Portfólio: https://sites.google.com/view/portfliocleberguimares/p%C3%A1gina-inicial?authuser=0
 
-- **Business Intelligence (BI):** Atualmente, meu foco principal é a área de BI, onde venho trabalhando no desenvolvimento e visualização de dados. Isso inclui a criação de painéis interativos, relatórios e análises que proporcionam insights para a tomada de decisões estratégicas. Utilizo ferramentas como DBT e Pentaho para ETL (Extract, Transform, Load).
 
 ## Projetos
 
